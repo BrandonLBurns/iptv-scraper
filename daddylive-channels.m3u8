@@ -1284,6 +1284,12 @@ https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8
 
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.San.Diego.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-sun.png" group-title="UNITED STATES",FanDuel Sports Network San Diego
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium901/mono.m3u8
+
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-socal.png" group-title="UNITED STATES",FanDuel Sports Network SoCal
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
@@ -3797,6 +3803,12 @@ https://ddy6new.newkso.ru/ddy6/premium734/mono.m3u8
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium655/mono.m3u8
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="UNITED STATES",WWE Network
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium376/mono.m3u8
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/willow-cricket-us.png" group-title="UNITED STATES",Willow Cricket
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
